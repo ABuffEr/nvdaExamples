@@ -10,4 +10,4 @@ Now, let's go!
 
 ## I'm looking a way to...
 
-* ...get the document path currently opened in foreground editor/viewer, like notepad, Adobe Reader, etc: if document was opened starting from explorer (a quite common case, I think), [there may be a solution](/scratchpad/globalPlugins/getOpenFilePath.py)
+* ...get the document path currently opened in foreground editor/viewer, like notepad, Adobe Reader, etc: if document was opened starting from explorer (a quite common case, I think), [there may be a solution](/raw/main/scratchpad/globalPlugins/getOpenFilePath.py)
