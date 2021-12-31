@@ -10,4 +10,5 @@ Now, let's go!
 
 ## I'm looking a way to...
 
+* ...run silently a core function/script, that originally includes voice/Braille output: see [here](/scratchpad/globalPlugins/runSilently.py?raw=true)
 * ...get the document path currently opened in foreground editor/viewer, like notepad, Adobe Reader, etc: if document was opened starting from explorer (a quite common case, I think), [there may be a solution](/scratchpad/globalPlugins/getOpenFilePath.py?raw=true)
